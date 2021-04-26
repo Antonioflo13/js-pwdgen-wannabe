@@ -1,4 +1,4 @@
-var nome = prompt ("Ciao, qual'è il tuo nome?");
-var cognome = prompt ("Ciao, qual'è il tuo cognome?");
-var colore = prompt ("Qual'è il tuo colore preferito?");
-document.getElementById ("password") .innerHTML = (nome + cognome + colore + "21");
+var name = prompt ("Ciao, qual'è il tuo nome?");
+var surname = prompt ("Ciao, qual'è il tuo cognome?");
+var color = prompt ("Qual'è il tuo colore preferito?");
+document.getElementById ("password") .innerHTML = (name + surname + color + "21");
